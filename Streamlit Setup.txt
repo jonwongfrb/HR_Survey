@@ -1,0 +1,12 @@
+1. Run a Streamlit instance for the applicaition
+
+    streamlit run Survey-Responses-QnA.py
+
+2. Access UI on GovCloud in AWS Workspaces
+
+    https://survey-responses-qna.notebook.us-gov-west-1.sagemaker.aws/proxy/8501/
+
+    Note that
+        - survey-responses-qna is name of the Notebook instance in Amazon SageMaker AI
+        - us-gov-west-1 is the region
+        - 8501 is the default port
